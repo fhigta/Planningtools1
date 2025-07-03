@@ -44,21 +44,21 @@
             <div class="card card-legacy text-center">
                 <h2 class="text-2xl font-bold text-slate-900 mb-2">Legacy & Growth</h2>
                 <p class="text-slate-600 mb-6">Focus on creating the largest, most tax-efficient inheritance, fueled by direct market investment.</p>
-                <div class="text-6xl big-number text-[#B8860B] mb-4">$4.5M+</div>
+                <div class="text-5xl big-number text-[#B8860B] mb-4">$4.5M+</div>
                 <p class="font-semibold text-slate-800">Illustrative Tax-Free Legacy</p>
                 <p class="text-sm text-slate-500 mt-2">via Survivorship VUL</p>
             </div>
             <div class="card card-growth text-center">
                 <h2 class="text-2xl font-bold text-slate-900 mb-2">Growth & Control</h2>
                 <p class="text-slate-600 mb-6">Prioritize market growth and maintain full control and liquidity, shouldering all risks and rewards.</p>
-                <div class="text-6xl big-number text-[#4682B4] mb-4">3.7%</div>
+                <div class="text-5xl big-number text-[#4682B4] mb-4">3.7%</div>
                 <p class="font-semibold text-slate-800">Prudent Withdrawal Rate</p>
                 <p class="text-sm text-slate-500 mt-2">via Taxable Portfolio (Morningstar)</p>
             </div>
             <div class="card card-income text-center">
                 <h2 class="text-2xl font-bold text-slate-900 mb-2">Income & Certainty</h2>
                 <p class="text-slate-600 mb-6">Eliminate market risk by converting principal into a guaranteed, predictable paycheck for life.</p>
-                <div class="text-6xl big-number text-[#696969] mb-4">100%</div>
+                <div class="text-5xl big-number text-[#696969] mb-4">100%</div>
                 <p class="font-semibold text-slate-800">Certainty of Income Stream</p>
                 <p class="text-sm text-slate-500 mt-2">via Joint Life SPIA</p>
             </div>
